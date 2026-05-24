@@ -126,15 +126,6 @@ body {
         top: 100%;
         left: 50%;
     }
-    /* #tab1 .content-wrapper {
-        background: url("img/Learning.jpg");
-    }
-    #tab2 .content-wrapper {
-        background: url("https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=1200&auto=format&fit=crop");
-    }
-    #tab3 .content-wrapper {
-        background: url("https://images.unsplash.com/photo-1432888622747-4eb9a8efeb07?q=80&w=1200&auto=format&fit=crop");
-    } */
     #imgsld {
         display: none;
     }
