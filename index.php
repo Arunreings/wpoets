@@ -33,7 +33,7 @@
 </head>
 <body>
 <div class="container main-section">
-    <div class="desktop-view col-11 mx-auto">
+    <div class="col-11 mx-auto">
         <div class="row text-center  text-white">
             <h2>Delphain Logic in Action</h2>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam, debitis!</p>
